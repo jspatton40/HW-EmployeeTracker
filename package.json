@@ -1,0 +1,24 @@
+{
+  "name": "HW-EmployeeTracker",
+  "version": "1.0.0",
+  "description": "This is my employee tracker app that utilizes databases and mySQL.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspatton40/HW-EmployeeTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jspatton40/HW-EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/jspatton40/HW-EmployeeTracker#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  }
+}
